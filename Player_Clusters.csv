@@ -1,0 +1,580 @@
+,Player,cluster_name
+0,Nikita Kucherov,Elite Offensive Players (Don't Take FO)
+1,Connor McDavid,Elite Offensive Players (Take FO)
+2,Patrick Kane,Elite Offensive Players (Don't Take FO)
+3,Leon Draisaitl,Elite Offensive Players (Take FO)
+4,Sidney Crosby,Elite Offensive Players (Take FO)
+5,Brad Marchand,Elite Offensive Players (Don't Take FO)
+6,Nathan MacKinnon,Elite Offensive Players (Take FO)
+7,Johnny Gaudreau,Elite Offensive Players (Don't Take FO)
+8,Steven Stamkos,Elite Offensive Players (Take FO)
+9,Aleksander Barkov,Elite Offensive Players (Take FO)
+10,Mitch Marner,Elite Offensive Players (Don't Take FO)
+11,Brayden Point,Elite Offensive Players (Take FO)
+12,Jonathan Huberdeau,Elite Offensive Players (Don't Take FO)
+13,Blake Wheeler,Power-Play Specialists
+14,Alex Ovechkin,Elite Offensive Players (Don't Take FO)
+15,John Tavares,Elite Offensive Players (Take FO)
+16,Artemi Panarin,Elite Offensive Players (Don't Take FO)
+17,Mikko Rantanen,Elite Offensive Players (Don't Take FO)
+18,Claude Giroux,Well-Rounded Elite Playmakers (Take FO)
+19,Mark Scheifele,Elite Offensive Players (Take FO)
+20,Sebastian Aho,Elite Offensive Players (Take FO)
+21,Brent Burns,Elite Offensive Defensemen
+22,Sean Monahan,Elite Offensive Players (Take FO)
+23,Jack Eichel,Elite Offensive Players (Take FO)
+24,Phil Kessel,Elite Offensive Players (Don't Take FO)
+25,David Pastrnak,Elite Offensive Players (Don't Take FO)
+26,Jonathan Toews,Elite Offensive Players (Take FO)
+27,Tyler Seguin,Elite Offensive Players (Take FO)
+28,Patrice Bergeron,Elite Offensive Players (Take FO)
+29,Elias Lindholm,Elite Offensive Players (Take FO)
+30,Ryan O'Reilly,Elite Offensive Players (Take FO)
+31,Matthew Tkachuk,Elite Offensive Players (Don't Take FO)
+32,Teuvo Teravainen,Elite Offensive Players (Don't Take FO)
+33,Jake Guentzel,Goal Scorers Who Take Penalties
+34,Sean Couturier,Elite Offensive Players (Take FO)
+35,Alex DeBrincat,Elite Offensive Players (Don't Take FO)
+36,Gabriel Landeskog,Elite Offensive Players (Take FO)
+37,Mark Giordano,Elite Offensive Defensemen
+38,Tomas Hertl,Elite Offensive Players (Take FO)
+39,Nicklas Backstrom,Well-Rounded Elite Playmakers (Take FO)
+40,Mika Zibanejad,Elite Offensive Players (Take FO)
+41,Mark Stone,Elite Offensive Players (Don't Take FO)
+42,David Krejci,Well-Rounded Elite Playmakers (Take FO)
+43,Dylan Larkin,Elite Offensive Players (Take FO)
+44,Auston Matthews,Elite Offensive Players (Take FO)
+45,Morgan Rielly,Elite Offensive Defensemen
+46,Alexander Radulov,Elite Offensive Players (Don't Take FO)
+47,Max Domi,Elite Offensive Players (Take FO)
+48,Evgeny Kuznetsov,Well-Rounded Elite Playmakers (Take FO)
+49,Evgeni Malkin,Well-Rounded Elite Playmakers (Take FO)
+50,John Carlson,Elite Offensive Defensemen
+51,Matt Duchene,Elite Offensive Players (Take FO)
+52,Logan Couture,Elite Offensive Players (Take FO)
+53,Evgenii Dadonov,Elite Offensive Players (Don't Take FO)
+54,Mike Hoffman,Elite Offensive Players (Don't Take FO)
+55,Cam Atkinson,Elite Offensive Players (Don't Take FO)
+56,Ryan Nugent-Hopkins,Every Situation Forwards
+57,Vladimir Tarasenko,Elite Offensive Players (Don't Take FO)
+58,Timo Meier,Goal Scorers Who Take Penalties
+59,Elias Pettersson,Elite Offensive Players (Take FO)
+60,Kyle Connor,Power-Play Specialists
+61,Jakub Voracek,Power-Play Specialists
+62,Sam Reinhart,Power-Play Specialists
+63,Ryan Johansen,Well-Rounded Elite Playmakers (Take FO)
+64,Joe Pavelski,Elite Offensive Players (Take FO)
+65,Jeff Skinner,Elite Offensive Players (Don't Take FO)
+66,Mathew Barzal,Well-Rounded Elite Playmakers (Take FO)
+67,Keith Yandle,Elite Offensive Defensemen
+68,Pierre-Luc Dubois,Well-Rounded Elite Playmakers (Take FO)
+69,Zach Parise,Power-Play Specialists
+70,Bo Horvat,Elite Offensive Players (Take FO)
+71,Gustav Nyquist,Goal Scorers Who Take Penalties
+72,Erik Gustafsson,Elite Offensive Defensemen
+73,Anze Kopitar,"Two-Way, FO-Taking Forwards"
+74,Jonathan Marchessault,Goal Scorers Who Take Penalties
+75,Tyson Barrie,Elite Offensive Defensemen
+76,Tomas Tatar,Goal Scorers Who Take Penalties
+77,Dylan Strome,Well-Rounded Elite Playmakers (Take FO)
+78,Kris Letang,Elite Offensive Defensemen
+79,Roman Josi,Elite Offensive Defensemen
+80,Josh Bailey,Power-Play Specialists
+81,William Karlsson,Well-Rounded Elite Playmakers (Take FO)
+82,Kevin Labanc,Elite Offensive Players (Don't Take FO)
+83,Brock Boeser,Power-Play Specialists
+84,Evander Kane,Goal Scorers Who Take Penalties
+85,Ryan Dzingel,Power-Play Specialists
+86,Kevin Hayes,Well-Rounded Elite Playmakers (Take FO)
+87,Thomas Chabot,Elite Offensive Defensemen
+88,Victor Hedman,Elite Offensive Defensemen
+89,T.J. Oshie,Power-Play Specialists
+90,Brayden Schenn,Well-Rounded Elite Playmakers (Take FO)
+91,Mikael Granlund,Power-Play Specialists
+92,Andreas Athanasiou,Power-Play Specialists
+93,Brock Nelson,Every Situation Forwards
+94,Phillip Danault,"Two-Way, FO-Taking Forwards"
+95,Jamie Benn,Goal Scorers Who Take Penalties
+96,Reilly Smith,Power-Play Specialists
+97,Torey Krug,Elite Offensive Defensemen
+98,Nino Niederreiter,Goal Scorers Who Take Penalties
+99,Justin Williams,Goal Scorers Who Take Penalties
+100,Jonathan Drouin,Power-Play Specialists
+101,Alex Tuch,Goal Scorers Who Take Penalties
+102,Brendan Gallagher,Goal Scorers Who Take Penalties
+103,Chris Kreider,Goal Scorers Who Take Penalties
+104,Eric Staal,Well-Rounded Elite Playmakers (Take FO)
+105,Anders Lee,Power-Play Specialists
+106,Joe Thornton,Well-Rounded Elite Playmakers (Take FO)
+107,Dustin Brown,Power-Play Specialists
+108,Filip Forsberg,Elite Offensive Players (Don't Take FO)
+109,Jacob Trouba,Every Situation Defensemen
+110,Kyle Palmieri,Power-Play Specialists
+111,Patrik Laine,Power-Play Specialists
+112,Travis Konecny,Goal Scorers Who Take Penalties
+113,Carl Soderberg,"Two-Way, FO-Taking Forwards"
+114,Viktor Arvidsson,Goal Scorers Who Take Penalties
+115,Yanni Gourde,Goal Scorers Who Take Penalties
+116,Anthony Mantha,Goal Scorers Who Take Penalties
+117,James van Riemsdyk,Power-Play Specialists
+118,Ryan Getzlaf,Well-Rounded Elite Playmakers (Take FO)
+119,Chris Tierney,"Two-Way, FO-Taking Forwards"
+120,Mikael Backlund,Well-Rounded Elite Playmakers (Take FO)
+121,Josh Anderson,Goal Scorers Who Take Penalties
+122,Jakub Vrana,Goal Scorers Who Take Penalties
+123,Andrew Shaw,Goal Scorers Who Take Penalties
+124,Tyler Johnson,Goal Scorers Who Take Penalties
+125,Tyler Bertuzzi,Goal Scorers Who Take Penalties
+126,J.T. Miller,Well-Rounded Elite Playmakers (Take FO)
+127,Nico Hischier,Well-Rounded Elite Playmakers (Take FO)
+128,Ryan Suter,Strong Defensive Defensemen
+129,Brandon Saad,Goal Scorers Who Take Penalties
+130,Clayton Keller,Power-Play Specialists
+131,Ryan McDonagh,Every Situation Defensemen
+132,Brett Connolly,Goal Scorers Who Take Penalties
+133,David Perron,Power-Play Specialists
+134,Seth Jones,Elite Offensive Defensemen
+135,Jeff Petry,Elite Offensive Defensemen
+136,Travis Zajac,"Two-Way, FO-Taking Forwards"
+137,Erik Karlsson,Elite Offensive Defensemen
+138,John Klingberg,Elite Offensive Defensemen
+139,Brady Tkachuk,Goal Scorers Who Take Penalties
+140,Drew Doughty,Every Situation Defensemen
+141,Mattias Ekholm,Elite Offensive Defensemen
+142,Kasperi Kapanen,Goal Scorers Who Take Penalties
+143,Nazem Kadri,Well-Rounded Elite Playmakers (Take FO)
+144,Zach Werenski,Elite Offensive Defensemen
+145,Rasmus Dahlin,Elite Offensive Defensemen
+146,Oliver Ekman-Larsson,Elite Offensive Defensemen
+147,Andreas Johnsson,Goal Scorers Who Take Penalties
+148,Jared Spurgeon,Strong Defensive Defensemen
+149,Jakob Silfverberg,Power-Play Specialists
+150,Rickard Rakell,Power-Play Specialists
+151,Rasmus Ristolainen,Every Situation Defensemen
+152,Paul Stastny,Well-Rounded Elite Playmakers (Take FO)
+153,Jake Debrusk,Goal Scorers Who Take Penalties
+154,Adam Henrique,Every Situation Forwards
+155,Alexander Kerfoot,Well-Rounded Elite Playmakers (Take FO)
+156,Jason Zucker,Goal Scorers Who Take Penalties
+157,Bobby Ryan,Power-Play Specialists
+158,Ryan Ellis,Every Situation Defensemen
+159,Cody Eakin,Every Situation Forwards
+160,Zach Hyman,Goal Scorers Who Take Penalties
+161,Alex Pietrangelo,Elite Offensive Defensemen
+162,Darnell Nurse,Every Situation Defensemen
+163,Bryan Little,Every Situation Forwards
+164,Alex Galchenyuk,Power-Play Specialists
+165,Colin White,Every Situation Forwards
+166,Alex Killorn,Goal Scorers Who Take Penalties
+167,Micheal Ferland,Goal Scorers Who Take Penalties
+168,Duncan Keith,Every Situation Defensemen
+169,Tom Wilson,Goal Scorers Who Take Penalties
+170,Mats Zuccarello,Lower-Line Skill Players
+171,Max Pacioretty,Goal Scorers Who Take Penalties
+172,Anthony Cirelli,"Two-Way, FO-Taking Forwards"
+173,Dougie Hamilton,Goal Scorers Who Take Penalties
+174,Vinnie Hinostroza,Goal-Focused Lower-Line Players
+175,Frank Vatrano,Goal-Focused Lower-Line Players
+176,Kevin Fiala,Power-Play Specialists
+177,Damon Severson,Every Situation Defensemen
+178,Derek Ryan,"Two-Way, FO-Taking Forwards"
+179,Craig Smith,Goal Scorers Who Take Penalties
+180,Boone Jenner,"Two-Way, FO-Taking Forwards"
+181,Alex Chiasson,Power-Play Specialists
+182,Tyler Bozak,"Two-Way, FO-Taking Forwards"
+183,Pavel Buchnevich,Power-Play Specialists
+184,Jake Muzzin,Even Strength two-way defensemen
+185,Ryan Pulock,Every Situation Defensemen
+186,Joonas Donskoi,Goal-Focused Lower-Line Players
+187,Dominik Kahun,Goal-Focused Lower-Line Players
+188,Nikolaj Ehlers,Goal Scorers Who Take Penalties
+189,Aaron Ekblad,Every Situation Defensemen
+190,Andrei Svechnikov,Goal Scorers Who Take Penalties
+191,Artem Anisimov,Every Situation Forwards
+192,Patric Hornqvist,Power-Play Specialists
+193,Shea Theodore,Strong Defensive Defensemen
+194,Jordan Eberle,Power-Play Specialists
+195,Taylor Hall,Volume Shooters
+196,Patrick Marleau,Goal-Focused Lower-Line Players
+197,Shayne Gostisbehere,Elite Offensive Defensemen
+198,Oliver Bjorkstrand,Goal Scorers Who Take Penalties
+199,Lars Eller,"Two-Way, FO-Taking Forwards"
+200,Jaden Schwartz,Lower-Line Skill Players
+201,Thomas Vanek,Power-Play Specialists
+202,Blake Coleman,Big Hitters And PK (No FO)
+203,Nick Bonino,"Two-Way, FO-Taking Forwards"
+204,Vince Dunn,Elite Offensive Defensemen
+205,Nick Foligno,Every Situation Forwards
+206,Bryan Rust,Big Hitters And PK (No FO)
+207,Justin Faulk,Elite Offensive Defensemen
+208,Jared McCann,Every Situation Forwards
+209,Derek Stepan,"Two-Way, FO-Taking Forwards"
+210,Ryan Strome,Every Situation Forwards
+211,Travis Sanheim,Even Strength two-way defensemen
+212,Jimmy Vesey,Goal-Focused Lower-Line Players
+213,Frans Nielsen,Every Situation Forwards
+214,Brandon Montour,Every Situation Defensemen
+215,Mikkel Boedker,Lower-Line Skill Players
+216,T.J. Brodie,Even Strength two-way defensemen
+217,Michael Frolik,Goal Scorers Who Take Penalties
+218,Danton Heinen,Lower-Line Skill Players
+219,Ondrej Palat,Lower-Line Skill Players
+220,Alexander Edler,Every Situation Defensemen
+221,Jesperi Kotkaniemi,Well-Rounded Elite Playmakers (Take FO)
+222,Charlie Coyle,Every Situation Forwards
+223,Vincent Trocheck,"Two-Way, FO-Taking Forwards"
+224,Tyler Toffoli,Goal-Focused Lower-Line Players
+225,Conor Sheary,Goal-Focused Lower-Line Players
+226,Ilya Kovalchuk,Power-Play Specialists
+227,Casey Cizikas,Big Hitters And PK (Take FO)
+228,Noah Hanifin,Even Strength two-way defensemen
+229,Shea Weber,Elite Offensive Defensemen
+230,Anthony Duclair,Goal-Focused Lower-Line Players
+231,Robert Thomas,Lower-Line Skill Players
+232,Richard Panik,Goal-Focused Lower-Line Players
+233,Jesper Bratt,Lower-Line Skill Players
+234,Oskar Lindblom,Goal-Focused Lower-Line Players
+235,Miro Heiskanen,Elite Offensive Defensemen
+236,Alex Iafallo,Goal-Focused Lower-Line Players
+237,Jeff Carter,Every Situation Forwards
+238,Esa Lindell,Every Situation Defensemen
+239,Mikhail Sergachev,Even Strength two-way defensemen
+240,Mark Jankowski,"Two-Way, FO-Taking Forwards"
+241,J.T. Compher,Every Situation Forwards
+242,Scott Laughton,Big Hitters And PK (Take FO)
+243,Valtteri Filppula,Big Hitters And PK (Take FO)
+244,Paul Byron,Goal-Focused Lower-Line Players
+245,Tyler Myers,Every Situation Defensemen
+246,Artturi Lehkonen,Big Hitters And PK (No FO)
+247,Josh Morrissey,Every Situation Defensemen
+248,Nick Ritchie,Lower-Line Skill Players
+249,Antoine Roussel,Big Hitters And PK (No FO)
+250,P.K. Subban,Elite Offensive Defensemen
+251,Dustin Byfuglien,Elite Offensive Defensemen
+252,Jaccob Slavin,Elite Offensive Defensemen
+253,Oskar Sundqvist,Big Hitters And PK (No FO)
+254,Jason Pominville,Goal-Focused Lower-Line Players
+255,Vladislav Namestnikov,Big Hitters And PK (No FO)
+256,Nolan Patrick,Every Situation Forwards
+257,Nate Schmidt,Every Situation Defensemen
+258,Colton Sissons,Big Hitters And PK (Take FO)
+259,Jake Gardiner,Even Strength two-way defensemen
+260,Marcus Sorensen,Goal-Focused Lower-Line Players
+261,Anthony DeAngelo,Every Situation Defensemen
+262,Mathieu Perreault,Goal-Focused Lower-Line Players
+263,Radek Faksa,Big Hitters And PK (Take FO)
+264,Marcus Johansson,Lower-Line Skill Players
+265,Wayne Simmonds,Goal-Focused Lower-Line Players
+266,Will Butcher,Elite Offensive Defensemen
+267,Brett Pesce,Strong Defensive Defensemen
+268,Ryan Murray,PK Specialist And Shot-Blocking Defensemen
+269,Connor Brown,Big Hitters And PK (No FO)
+270,Brandon Tanev,Big Hitters And PK (No FO)
+271,Dmitry Orlov,Even Strength two-way defensemen
+272,Colin Miller,Elite Offensive Defensemen
+273,Mikko Koivu,"Two-Way, FO-Taking Forwards"
+274,Evan Rodrigues,"Two-Way, FO-Taking Forwards"
+275,Kyle Okposo,Lower-Line Skill Players
+276,Loui Eriksson,Big Hitters And PK (No FO)
+277,Devin Shore,Every Situation Forwards
+278,Colton Parayko,Every Situation Defensemen
+279,Charlie McAvoy,Even Strength two-way defensemen
+280,Dominik Simon,Lower-Line Skill Players
+281,Jordan Staal,"Two-Way, FO-Taking Forwards"
+282,Anthony Beauvillier,Goal-Focused Lower-Line Players
+283,Pat Maroon,Lower-Line Skill Players
+284,Hampus Lindholm,Every Situation Defensemen
+285,Brent Seabrook,Every Situation Defensemen
+286,Zack Smith,Big Hitters And PK (Take FO)
+287,Lucas Wallmark,"Two-Way, FO-Taking Forwards"
+288,Adrian Kempe,Every Situation Forwards
+289,Oscar Klefbom,Every Situation Defensemen
+290,Kevin Shattenkirk,Elite Offensive Defensemen
+291,Samuel Girard,Strong Defensive Defensemen
+292,Brad Richardson,Big Hitters And PK (Take FO)
+293,Alex Steen,Big Hitters And PK (No FO)
+294,William Nylander,Lower-Line Skill Players
+295,Niklas Kronwall,Every Situation Defensemen
+296,Sam Bennett,Goal-Focused Lower-Line Players
+297,Colin Wilson,Lower-Line Skill Players
+298,Alex Goligoski,Strong Defensive Defensemen
+299,Nick Cousins,Lower-Line Skill Players
+300,Nikolay Goldobin,Lower-Line Skill Players
+301,Jason Spezza,Well-Rounded Elite Playmakers (Take FO)
+302,Tanner Pearson,Goal-Focused Lower-Line Players
+303,Mike Matheson,Every Situation Defensemen
+304,Leo Komarov,Big Hitters And PK (No FO)
+305,Calle Jarnkrok,Big Hitters And PK (No FO)
+306,Brock McGinn,Big Hitters And PK (No FO)
+307,Nick Bjugstad,Lower-Line Skill Players
+309,Ryan Hartman,Goal-Focused Lower-Line Players
+310,Nick Leddy,Every Situation Defensemen
+311,Mike Green,Even Strength two-way defensemen
+312,Tyson Jost,Lower-Line Skill Players
+314,Zack Kassian,Big Hitters And PK (No FO)
+315,Matt Calvert,Big Hitters And PK (No FO)
+316,Neal Pionk,Every Situation Defensemen
+317,Ivan Provorov,Every Situation Defensemen
+318,Cody Ceci,PK Specialist And Shot-Blocking Defensemen
+319,Michal Kempny,Even Strength two-way defensemen
+320,Andrew Copp,Big Hitters And PK (No FO)
+321,Marcus Pettersson,Strong Defensive Defensemen
+322,Erik Johnson,PK Specialist And Shot-Blocking Defensemen
+323,Lawson Crouse,Big Hitters And PK (No FO)
+325,Jordan Martinook,Big Hitters And PK (No FO)
+326,Alexander Wennberg,"Two-Way, FO-Taking Forwards"
+327,Matt Niskanen,PK Specialist And Shot-Blocking Defensemen
+328,Mattias Janmark,Big Hitters And PK (No FO)
+329,Brady Skjei,Strong Defensive Defensemen
+330,Jake Virtanen,Goal-Focused Lower-Line Players
+331,Marc-Edouard Vlasic,PK Specialist And Shot-Blocking Defensemen
+332,Pavel Zacha,Every Situation Forwards
+333,Andy Greene,PK Specialist And Shot-Blocking Defensemen
+334,Nick Schmaltz,Lower-Line Skill Players
+335,Pontus Aberg,Lower-Line Skill Players
+336,Ryan Donato,Lower-Line Skill Players
+337,Casey Mittelstadt,Every Situation Forwards
+338,David Savard,PK Specialist And Shot-Blocking Defensemen
+339,Josh Leivo,Goal-Focused Lower-Line Players
+341,Kenny Agostino,Lower-Line Skill Players
+342,Miles Wood,Goal-Focused Lower-Line Players
+343,Jordan Greenway,Goal-Focused Lower-Line Players
+344,Brian Boyle,Every Situation Forwards
+345,Brian Dumoulin,Even Strength two-way defensemen
+346,Ron Hainsey,Strong Defensive Defensemen
+347,Troy Stecher,Even Strength two-way defensemen
+348,Cal Clutterbuck,Big Hitters And PK (No FO)
+349,Adam Lowry,Big Hitters And PK (Take FO)
+350,Braydon Coburn,Even Strength two-way defensemen
+351,Luke Glendening,Big Hitters And PK (Take FO)
+352,Matthew Nieto,Big Hitters And PK (No FO)
+353,Joel Armia,Goal-Focused Lower-Line Players
+354,Drake Caggiula,Goal-Focused Lower-Line Players
+355,Kyle Turris,Lower-Line Skill Players
+356,Filip Hronek,Lower-Line PP Defensemen/Defensemen-Like Forwards
+357,Cam Fowler,Every Situation Defensemen
+358,Brendan Leipsic,Lower-Line Skill Players
+359,Brett Howden,Every Situation Forwards
+360,Daniel Sprong,Goal-Focused Lower-Line Players
+361,Derick Brassard,Every Situation Forwards
+362,Filip Chytil,Goal-Focused Lower-Line Players
+363,Brenden Dillon,Even Strength two-way defensemen
+364,Jordie Benn,PK Specialist And Shot-Blocking Defensemen
+366,Jason Dickinson,Big Hitters And PK (No FO)
+367,Josh Archibald,Big Hitters And PK (No FO)
+368,Dylan DeMelo,PK Specialist And Shot-Blocking Defensemen
+369,Markus Granlund,Every Situation Forwards
+370,Mathew Dumba,Lower-Line PP Defensemen/Defensemen-Like Forwards
+371,Roope Hintz,Lower-Line Skill Players
+372,Adam Pelech,PK Specialist And Shot-Blocking Defensemen
+373,Sean Kuraly,Big Hitters And PK (No FO)
+375,Markus Nutivaara,Even Strength two-way defensemen
+377,Troy Brouwer,Big Hitters And PK (No FO)
+378,Jordan Weal,Lower-Line Skill Players
+381,Zach Sanford,Physical Defensive Lower-Line Forwards
+383,Ben Chiarot,PK Specialist And Shot-Blocking Defensemen
+385,Radko Gudas,PK Specialist And Shot-Blocking Defensemen
+386,Nick Jensen,PK Specialist And Shot-Blocking Defensemen
+387,Oscar Lindberg,Lower-Line Skill Players
+388,Danny DeKeyser,PK Specialist And Shot-Blocking Defensemen
+390,David Backes,Lower-Line Skill Players
+391,Ondrej Kase,Volume Shooters
+392,Carter Rowney,Big Hitters And PK (No FO)
+393,Jesper Fast,Big Hitters And PK (No FO)
+394,Robert Hagg,PK Specialist And Shot-Blocking Defensemen
+395,Jordan Oesterle,Every Situation Defensemen
+396,Milan Lucic,Lower-Line Skill Players
+397,Jakob Chychrun,Lower-Line PP Defensemen/Defensemen-Like Forwards
+398,Ben Hutton,Every Situation Defensemen
+399,Adam Larsson,PK Specialist And Shot-Blocking Defensemen
+400,Travis Hamonic,PK Specialist And Shot-Blocking Defensemen
+401,Scott Mayfield,PK Specialist And Shot-Blocking Defensemen
+402,Rasmus Andersson,Even Strength two-way defensemen
+404,Johnny Boychuk,PK Specialist And Shot-Blocking Defensemen
+405,Carl Hagelin,Big Hitters And PK (No FO)
+406,Chris Wagner,Big Hitters And PK (No FO)
+407,Marcus Foligno,Big Hitters And PK (No FO)
+408,Zach Bogosian,PK Specialist And Shot-Blocking Defensemen
+410,James Neal,Lower-Line Skill Players
+411,David Kampf,Big Hitters And PK (Take FO)
+412,Riley Sheahan,Big Hitters And PK (Take FO)
+413,Justin Abdelkader,Big Hitters And PK (No FO)
+414,Magnus Paajarvi,Big Hitters And PK (No FO)
+415,Matt Grzelcyk,Every Situation Defensemen
+416,Brandon Pirri,Volume Shooters
+417,Devon Toews,Lower-Line PP Defensemen/Defensemen-Like Forwards
+418,Conor Garland,Volume Shooters
+421,Alec Martinez,PK Specialist And Shot-Blocking Defensemen
+422,Ryan Carpenter,Big Hitters And PK (No FO)
+424,Blake Comeau,Big Hitters And PK (No FO)
+425,Michael Rasmussen,Lower-Line Skill Players
+426,Zemgus Girgensons,Big Hitters And PK (No FO)
+427,Jujhar Khaira,Big Hitters And PK (No FO)
+428,Christian Fischer,Goal-Focused Lower-Line Players
+429,Henrik Borgström,Every Situation Forwards
+430,Jonas Brodin,PK Specialist And Shot-Blocking Defensemen
+431,Zach Aston-Reese,Physical Defensive Lower-Line Forwards
+432,Brett Kulak,Even Strength two-way defensemen
+433,Anton Stralman,PK Specialist And Shot-Blocking Defensemen
+434,Matt Benning,Even Strength two-way defensemen
+437,Cedric Paquette,Big Hitters And PK (Take FO)
+438,Scott Harrington,PK Specialist And Shot-Blocking Defensemen
+441,Andrew Cogliano,Big Hitters And PK (No FO)
+442,Jay Bouwmeester,PK Specialist And Shot-Blocking Defensemen
+443,Travis Dermott,Even Strength two-way defensemen
+444,Luke Kunin,Physical Defensive Lower-Line Forwards
+445,Tomas Nosek,Big Hitters And PK (No FO)
+446,Darren Helm,Big Hitters And PK (No FO)
+447,Sami Vatanen,Every Situation Defensemen
+448,Erik Cernak,PK Specialist And Shot-Blocking Defensemen
+449,Brayden McNabb,PK Specialist And Shot-Blocking Defensemen
+450,Austin Watson,Physical Defensive Lower-Line Forwards
+451,Dan Girardi,PK Specialist And Shot-Blocking Defensemen
+452,Kris Russell,PK Specialist And Shot-Blocking Defensemen
+453,Alex Biega,Even Strength Lower-Line Defensive Players
+455,Michael Grabner,Physical Defensive Lower-Line Forwards
+456,Josh Manson,PK Specialist And Shot-Blocking Defensemen
+457,Denis Malgin,Physical Defensive Lower-Line Forwards
+458,Tyler Motte,Big Hitters And PK (No FO)
+459,Justin Braun,PK Specialist And Shot-Blocking Defensemen
+460,Dennis Cholowski,Lower-Line PP Defensemen/Defensemen-Like Forwards
+461,Jonathon Merrill,Even Strength two-way defensemen
+462,Nick Holden,Even Strength two-way defensemen
+463,Pierre-Edouard Bellemare,"Two-Way, FO-Taking Forwards"
+464,Justin Schultz,Lower-Line PP Defensemen/Defensemen-Like Forwards
+465,Ian Cole,PK Specialist And Shot-Blocking Defensemen
+466,Colton Sceviour,Big Hitters And PK (No FO)
+467,MacKenzie Weegar,Strong Defensive Defensemen
+469,Warren Foegele,Big Hitters And PK (No FO)
+470,Maxime Lajoie,Every Situation Defensemen
+471,Zdeno Chara,Every Situation Defensemen
+472,Nikita Zadorov,PK Specialist And Shot-Blocking Defensemen
+473,Olli Maatta,PK Specialist And Shot-Blocking Defensemen
+476,Nikita Zaitsev,PK Specialist And Shot-Blocking Defensemen
+477,Calvin de Haan,Even Strength two-way defensemen
+478,Noel Acciari,Big Hitters And PK (No FO)
+479,Jake McCabe,PK Specialist And Shot-Blocking Defensemen
+480,Trevor van Riemsdyk,Even Strength two-way defensemen
+482,Rudolfs Balcers,Lower-Line PP Defensemen/Defensemen-Like Forwards
+483,Joel Eriksson Ek,Physical Defensive Lower-Line Forwards
+484,Johan Larsson,Big Hitters And PK (Take FO)
+485,Sven Baertschi,Lower-Line PP Defensemen/Defensemen-Like Forwards
+486,Derek Forbort,PK Specialist And Shot-Blocking Defensemen
+487,Brandon Dubinsky,Big Hitters And PK (Take FO)
+488,Victor Mete,Even Strength two-way defensemen
+489,Connor Murphy,PK Specialist And Shot-Blocking Defensemen
+491,Tim Heed,Lower-Line PP Defensemen/Defensemen-Like Forwards
+492,Troy Terry,Lower-Line PP Defensemen/Defensemen-Like Forwards
+494,John Moore,PK Specialist And Shot-Blocking Defensemen
+496,Nate Thompson,Big Hitters And PK (Take FO)
+498,Jack Johnson,PK Specialist And Shot-Blocking Defensemen
+499,Sam Gagner,Volume Shooters
+500,Brendan Smith,PK Specialist And Shot-Blocking Defensemen
+501,Drew Stafford,Physical Defensive Lower-Line Forwards
+502,Jay Beagle,Big Hitters And PK (Take FO)
+503,Marc Staal,PK Specialist And Shot-Blocking Defensemen
+504,Marco Scandella,PK Specialist And Shot-Blocking Defensemen
+506,Vladimir Sobotka,Big Hitters And PK (Take FO)
+507,Nathan Beaulieu,Even Strength Lower-Line Defensive Players
+508,Jamie Oleksiak,Even Strength Lower-Line Defensive Players
+509,Chris Tanev,PK Specialist And Shot-Blocking Defensemen
+510,Christian Wolanin,Lower-Line PP Defensemen/Defensemen-Like Forwards
+512,Joakim Nordstrom,Big Hitters And PK (No FO)
+513,Derrick Pouliot,Even Strength two-way defensemen
+514,Brad Hunt,Lower-Line PP Defensemen/Defensemen-Like Forwards
+516,Tyler Pitlick,Physical Defensive Lower-Line Forwards
+517,Deryk Engelland,PK Specialist And Shot-Blocking Defensemen
+518,Henri Jokiharju,Even Strength Lower-Line Defensive Players
+522,Trevor Lewis,Physical Defensive Lower-Line Forwards
+523,Jean-Gabriel Pageau,Physical Defensive Lower-Line Forwards
+524,Tage Thompson,Goal-Focused Lower-Line Players
+525,Joel Edmundson,PK Specialist And Shot-Blocking Defensemen
+527,Andrew Ladd,Physical Defensive Lower-Line Forwards
+528,Taylor Fedun,Even Strength two-way defensemen
+530,Mike Reilly,Even Strength two-way defensemen
+531,Mark Pysyk,PK Specialist And Shot-Blocking Defensemen
+535,Mirco Mueller,Even Strength Lower-Line Defensive Players
+536,Tobias Rieder,PK Specialist And Shot-Blocking Defensemen
+538,Connor Carrick,Even Strength Lower-Line Defensive Players
+539,Chandler Stephenson,Big Hitters And PK (No FO)
+540,Brandon Carlo,Strong Defensive Defensemen
+542,Robert Bortuzzo,PK Specialist And Shot-Blocking Defensemen
+543,Christian Djoos,Even Strength Lower-Line Defensive Players
+544,Niklas Hjalmarsson,PK Specialist And Shot-Blocking Defensemen
+546,Patrik Nemeth,Strong Defensive Defensemen
+548,Madison Bowey,Even Strength Lower-Line Defensive Players
+549,Michael Del Zotto,Even Strength Lower-Line Defensive Players
+553,Kevin Rooney,Big Hitters And PK (Take FO)
+555,Sean Walker,Even Strength Lower-Line Defensive Players
+556,Christian Jaros,PK Specialist And Shot-Blocking Defensemen
+558,Corey Perry,Lower-Line PP Defensemen/Defensemen-Like Forwards
+559,Erik Gudbranson,PK Specialist And Shot-Blocking Defensemen
+560,Brooks Orpik,PK Specialist And Shot-Blocking Defensemen
+561,Radim Simek,Even Strength Lower-Line Defensive Players
+562,Roman Polak,PK Specialist And Shot-Blocking Defensemen
+565,Tom Kuhnhackl,Physical Defensive Lower-Line Forwards
+566,Ben Lovejoy,PK Specialist And Shot-Blocking Defensemen
+569,Victor Rask,Lower-Line Skill Players
+571,Andrew MacDonald,Even Strength Lower-Line Defensive Players
+572,Gustav Forsling,Even Strength Lower-Line Defensive Players
+576,Jesse Puljujarvi,Physical Defensive Lower-Line Forwards
+577,Jason Demers,Even Strength Lower-Line Defensive Players
+579,Jan Rutta,Even Strength Lower-Line Defensive Players
+581,Oliver Kylington,Even Strength Lower-Line Defensive Players
+588,Kevin Connauton,PK Specialist And Shot-Blocking Defensemen
+589,Trevor Daley,PK Specialist And Shot-Blocking Defensemen
+590,Bogdan Kiselevich,Even Strength Lower-Line Defensive Players
+591,Colby Cave,Physical Defensive Lower-Line Forwards
+594,Ryan Kesler,Big Hitters And PK (Take FO)
+595,Stefan Noesen,Physical Defensive Lower-Line Forwards
+596,Carl Gunnarsson,Even Strength Lower-Line Defensive Players
+597,Kevan Miller,Even Strength Lower-Line Defensive Players
+601,Michael Dal Colle,Physical Defensive Lower-Line Forwards
+602,Adam McQuaid,PK Specialist And Shot-Blocking Defensemen
+605,Joseph Morrow,Even Strength Lower-Line Defensive Players
+606,Igor Ozhiganov,Even Strength two-way defensemen
+607,Joakim Ryan,Even Strength Lower-Line Defensive Players
+610,Nick Seeler,PK Specialist And Shot-Blocking Defensemen
+613,Egor Yakovlev,Even Strength Lower-Line Defensive Players
+614,Joey Anderson,Physical Defensive Lower-Line Forwards
+615,Greg Pateryn,PK Specialist And Shot-Blocking Defensemen
+616,Chris Wideman,Lower-Line PP Defensemen/Defensemen-Like Forwards
+617,Carl Dahlstrom,Even Strength Lower-Line Defensive Players
+618,Christian Folin,Even Strength Lower-Line Defensive Players
+619,Slater Koekkoek,Even Strength Lower-Line Defensive Players
+620,Dmitry Kulikov,Even Strength Lower-Line Defensive Players
+622,Fredrik Claesson,Even Strength Lower-Line Defensive Players
+623,Casey Nelson,Even Strength Lower-Line Defensive Players
+625,Matt Roy,Even Strength Lower-Line Defensive Players
+627,Robby Fabbri,Physical Defensive Lower-Line Forwards
+631,Steven Kampfer,Lower-Line PP Defensemen/Defensemen-Like Forwards
+635,Lawrence Pilut,Even Strength Lower-Line Defensive Players
+638,Brandon Sutter,Big Hitters And PK (Take FO)
+640,Dion Phaneuf,PK Specialist And Shot-Blocking Defensemen
+641,Dean Kukan,Even Strength Lower-Line Defensive Players
+645,Juuso Riikola,Lower-Line PP Defensemen/Defensemen-Like Forwards
+649,Paul Ladue,Even Strength Lower-Line Defensive Players
+654,Max Jones,Physical Defensive Lower-Line Forwards
+655,Dan Hamhuis,PK Specialist And Shot-Blocking Defensemen
+658,Jacob Larsson,Even Strength Lower-Line Defensive Players
+659,Martin Marincin,Even Strength Lower-Line Defensive Players
+663,Jonathan Ericsson,PK Specialist And Shot-Blocking Defensemen
+664,Mark Borowiecki,PK Specialist And Shot-Blocking Defensemen
+667,Ben Harpur,PK Specialist And Shot-Blocking Defensemen
+668,Jonas Siegenthaler,Even Strength Lower-Line Defensive Players
+669,Thomas Hickey,Even Strength Lower-Line Defensive Players
+672,Oscar Fantenberg,Even Strength Lower-Line Defensive Players
+674,Andrej Sekera,Even Strength Lower-Line Defensive Players
+678,Sami Niku,Even Strength Lower-Line Defensive Players
+680,Jaycob Megna,Even Strength Lower-Line Defensive Players
+681,Julius Honka,Even Strength Lower-Line Defensive Players
+686,Patrik Berglund,Physical Defensive Lower-Line Forwards
+690,Andy Welinski,Even Strength Lower-Line Defensive Players
+691,Steven Santini,Even Strength Lower-Line Defensive Players
+692,Ilya Lyubushkin,Even Strength Lower-Line Defensive Players
+693,Brandon Manning,Physical Defensive Lower-Line Forwards
+703,Kevin Gravel,Even Strength Lower-Line Defensive Players
+705,Juuso Valimaki,Even Strength Lower-Line Defensive Players
+733,Josh Brown,Even Strength Lower-Line Defensive Players
+743,Luke Schenn,Even Strength Lower-Line Defensive Players
+744,Alexander Petrovic,Even Strength Lower-Line Defensive Players
