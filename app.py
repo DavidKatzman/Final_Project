@@ -6,12 +6,26 @@ import pandas as pd
 import numpy as np
 
 df = pd.read_csv('Player_Clusters.csv')
-
+cluster_player = list(set(df['cluster_name']))
+cluster_player.extend(list(df['Player']))
+    
 app = dash.Dash()
 
 app.layout = html.Div(children=
         [html.H1('Hockey Player Classifyer'),
-         html.H3('Cluster Names: '),
+         html.H3('Cluster or Player Name: '),
+         html.Div(
+            [
+            dcc.Dropdown(
+                id='cluster_name', # 'id' is also the column name in df
+                options=[{
+                    'label':i,
+                    'value':i
+                } for i in cluster_player],
+                value ='Blue')
+            ]),
+         html.Div(id='output'),
+         html.H5("Cluster Names: "),
          html.H6("Elite Offensive Players (Don't Take FO)"),
          html.H6('Elite Offensive Players (Take FO)'),
          html.H6('Power-Play Specialists'),
@@ -32,12 +46,10 @@ app.layout = html.Div(children=
          html.H6('Lower-Line PP Defensemen/Defensemen-Like Forwards'),
          html.H6('Physical Defensive Lower-Line Forwards'),
          html.H6('Even Strength Lower-Line Defensive Players'),
-         dcc.Input(id='input', value = 'Player or Cluster Name', type = 'text'),
-         html.Div(id='output')
         ],
          style={'verticalAlign':'middle',
                 'textAlign': 'center',
-                'backgroundColor':'pink',
+                'backgroundColor':'lightYellow',
                 'fontColor':'red',
                 'width':'100%',
                 'height':'100%',
@@ -48,7 +60,7 @@ app.layout = html.Div(children=
 
 @app.callback(
     Output(component_id='output', component_property='children'),
-    [Input(component_id='input', component_property='value')])
+    [Input(component_id='cluster_name', component_property='value')])
 
 def update_value(input_data) :
     counter = 0
@@ -66,7 +78,7 @@ def update_value(input_data) :
             for index, row in df.iterrows():
                 if row['cluster_name'] == cluster:
                     player_list.append(row['Player'])
-            return "{}: {}".format(input_data, player_list)
+            return "{}: \n {}".format(input_data, player_list)
     return "Please Enter Valid Player or Cluster Name"
 
 if __name__ == '__main__':
